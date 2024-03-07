@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Production of semi-finished products</name>
+    </assembly>
+    <members>
+        <member name="T:Production_of_semi_finished_products.AddProductForm">
+            <summary>
+            Логика взаимодействия для AddProductForm.xaml
+            </summary>
+            <summary>
+            AddProductForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AddProductForm.AddProduct_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Добавление данных в SalesManager 
+            </summary>
+            <param name="sender">Добавление данных и переход на страницу OrderFormMp</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AddProductForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.AddProductInvoiceForm">
+            <summary>
+            Логика взаимодействия для AddProductInvoiceForm.xaml
+            </summary>
+            <summary>
+            AddProductInvoiceForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AddProductInvoiceForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.AddProductMpForm">
+            <summary>
+            Логика взаимодействия для AddProductMpForm.xaml
+            </summary>
+            <summary>
+            AddProductMpForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AddProductMpForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.AddTiketsForm">
+            <summary>
+            Логика взаимодействия для AddTiketsForm.xaml
+            </summary>
+            <summary>
+            AddTiketsForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AddTiketsForm.ButtonAddTiket_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Добавление данных в таблицу Tickets.
+            </summary>
+            <param name="sender">Добавление данных и переход на страницу AdminForm</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AddTiketsForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.AdminForm">
+            <summary>
+            Логика взаимодействия для AdminForm.xaml
+            </summary>
+            <summary>
+            AdminForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AdminForm.DellData_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Выывод таблиц OrderSalesManager, PurchasingManager, Tickets
+            </summary>
+            <param name="sender">Вывод таблиц. Удаление данных. Добавление тикетов</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AdminForm.AddTikets_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Переход
+            </summary>
+            <param name="sender">Переход на страницу AddTiketsForm </param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Production_of_semi_finished_products.AdminForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.InvoiceForm">
+            <summary>
+            Логика взаимодействия для InvoiceForm.xaml
+            </summary>
+            <summary>
+            InvoiceForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.InvoiceForm.InvoiceForm_Loaded(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Счетчик счета-фактуры
+            </summary>
+            <param name="sender">Счетчик перехода на страницу</param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Production_of_semi_finished_products.InvoiceForm.SaveRecipeExel_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Сохранение всех данных на форме в exel документ
+            </summary>
+            <param name="sender">Сохранение данных в exel документ </param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Production_of_semi_finished_products.InvoiceForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.OrderFormMp">
+            <summary>
+            Логика взаимодействия для OrderFormMp.xaml
+            </summary>
+            <summary>
+            OrderFormMp
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.OrderFormMp.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.Properties.Report">
+            <summary>
+            Логика взаимодействия для Report.xaml
+            </summary>
+            <summary>
+            Report
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.Properties.Report.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:Production_of_semi_finished_products.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:Production_of_semi_finished_products.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.ReceiptForm">
+            <summary>
+            Логика взаимодействия для ReceiptForm.xaml
+            </summary>
+            <summary>
+            ReceiptForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.ReceiptForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.App">
+            <summary>
+            Логика взаимодействия для App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.MainWindow">
+            <summary>
+            Логика взаимодействия для MainWindow
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.MpForm">
+            <summary>
+            Логика взаимодействия для MpForm.xaml
+            </summary>
+            <summary>
+            MpForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.MpForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Production_of_semi_finished_products.MzForm">
+            <summary>
+            Логика взаимодействия для MzForm.xaml
+            </summary>
+            <summary>
+            MzForm
+            </summary>
+        </member>
+        <member name="M:Production_of_semi_finished_products.MzForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,134 @@
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe.config
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.pdb
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.AssemblyReference.cache
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\App.g.cs
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_MarkupCompile.cache
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_MarkupCompile.lref
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.g.resources
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production_of_semi_finished_products.Properties.Resources.resources
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.GenerateResource.cache
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.CoreCompileInputs.cache
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.exe
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.pdb
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MainWindow.g.cs
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MpForm.g.cs
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MainWindow.baml
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MpForm.baml
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MzForm.g.cs
+C:\Users\Aripova\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MzForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe.config
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.pdb
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.xml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MainWindow.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MpForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MzForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\OrderFormMp.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Properties\Report.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_Content.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_MarkupCompile.cache
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_MarkupCompile.lref
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MainWindow.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MpForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MzForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\OrderFormMp.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Properties\Report.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.g.resources
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production_of_semi_finished_products.Properties.Resources.resources
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.CopyComplete
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.exe
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.pdb
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\ReceiptForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\ReceiptForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\InvoiceForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\InvoiceForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AdminForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AdminForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\App.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddTiketsForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddTiketsForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.xml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.xml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductMpForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductMpForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe.manifest
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.application
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.exe.manifest
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.application
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductInvoiceForm.g.cs
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductInvoiceForm.baml
+C:\Users\DNS\Desktop\30.05.22\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csprojAssemblyReference.cache
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe.config
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe.manifest
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.application
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.xml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.exe
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Production of semi-finished products.pdb
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.xml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\EPPlus.xml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csprojAssemblyReference.cache
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductInvoiceForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductMpForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddTiketsForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AdminForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\InvoiceForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MainWindow.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MpForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MzForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\OrderFormMp.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Properties\Report.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\ReceiptForm.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_Content.g.cs
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_MarkupCompile.cache
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products_MarkupCompile.lref
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\App.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductInvoiceForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddProductMpForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AddTiketsForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\AdminForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\InvoiceForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MainWindow.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MpForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\MzForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\OrderFormMp.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Properties\Report.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\ReceiptForm.baml
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.g.resources
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production_of_semi_finished_products.Properties.Resources.resources
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.exe.manifest
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.application
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.csproj.CopyComplete
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.exe
+C:\Users\DNS\Desktop\Учебная практика Корюкин\Корюкин Иван\Задание 3\Production of semi-finished products\Production of semi-finished products\obj\Debug\Production of semi-finished products.pdb

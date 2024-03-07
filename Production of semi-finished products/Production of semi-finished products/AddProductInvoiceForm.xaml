@@ -1,0 +1,35 @@
+﻿<Window x:Class="Production_of_semi_finished_products.AddProductInvoiceForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Production_of_semi_finished_products"
+        mc:Ignorable="d"
+        Title="Добавить товар" Height="450" Width="400" MinHeight ="450" MinWidth ="400"  WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+
+            </Grid.RowDefinitions>
+            <TextBlock Text="Наименование" Margin="3"  HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="0"/>
+            <TextBlock Text="Единица измирения" Margin="3"  HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="1"/>
+            <TextBlock Text="Цена за еденицу товара" Margin="3"  HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="2"/>
+            <TextBlock Text="Стоимость" Margin="3"  HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="3"/>
+
+            <TextBox Grid.Column="1" Grid.Row="0" Width="180" Height="25" Margin="3" x:Name="ProductNameTB"/>
+            <TextBox Grid.Column="1" Grid.Row="1" Width="180" Height="25" Margin="3" x:Name="UnitMeasurementTB"/>
+            <TextBox Grid.Column="1" Grid.Row="2" Width="180" Height="25" Margin="3" x:Name="PricePerUnitMeasurementTB"/>
+            <TextBox Grid.Column="1" Grid.Row="3" Width="180" Height="25" Margin="3" x:Name="CostTB"/>
+            <Button Content="Добавить" Grid.Row="6" Grid.ColumnSpan="2" Width="140" Height="45" FontSize="16" x:Name="AddProduct" Click="AddProduct_Click"/>
+        </Grid>
+    </Grid>
+</Window>
